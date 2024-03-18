@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+
+# TypeScript build output
+dist/
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Environment variables
+.env
